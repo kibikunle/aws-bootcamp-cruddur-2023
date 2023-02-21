@@ -2,6 +2,4 @@
 
 Cruddur Logical Diagram
 
-![Cruddur Graphic](_docs/assets/cruddur-banner.jpg)
-
-/_docs/assets/Cruddur Diagram.jpg
+(_docs/assets/Cruddur Diagram.jpg)
