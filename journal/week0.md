@@ -6,4 +6,5 @@
 
 ### Logical Diagram of the Cruddur App Project created using Lucid Chart
 
-![Cruddur Diagram](https://lucid.app/lucidchart/de6d217d-972c-42e5-aeef-0f1b1f191162/edit?invitationId=inv_0bafb90f-419d-40fe-8d5b-771795552e8a)
+![Cruddur Diagram](https://github.com/kibikunle/aws-bootcamp-cruddur-2023/blob/main/_docs/assets/Cruddur%20Diagram.png)
+
